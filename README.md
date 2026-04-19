@@ -1,1 +1,0 @@
-# jpo_projekt_zaliczeniowy
