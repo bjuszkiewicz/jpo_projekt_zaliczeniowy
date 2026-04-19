@@ -1,0 +1,5 @@
+- Qt Creator (wersja oparta na Qt 6, np. 6.5+)
+- CMake
+- C++17
+- Ollama
+- Model językowy: SpeakLeash/bielik-11b-v3.0-instruct:Q4_K_M
